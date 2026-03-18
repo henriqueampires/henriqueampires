@@ -151,6 +151,13 @@
     </table>
   </div>
 
+  ## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/henriqueampires/henriqueampires/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+ 
+
   <h2 align="center">
     <span style="background: linear-gradient(90deg, #00B4FF, #9745F5); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       🌐 LET'S CONNECT
